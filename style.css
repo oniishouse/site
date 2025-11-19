@@ -271,7 +271,7 @@ body::-webkit-scrollbar {
 }
 
 .profile-img {
-	width: 340px;
+	width: 370px;
 	height: 200px;
 	margin: 0 auto 20px;
 	display: flex;
@@ -1000,4 +1000,5 @@ body::-webkit-scrollbar {
 	.stat-label {
 		font-size: 12px;
 	}
+
 }
